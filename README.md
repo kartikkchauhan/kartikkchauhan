@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kartik chauhan
 - 👀 I’m interested in working on python and Unity3D projects.
 - 🌱 I’m currently working on Self Driving cars and other autonomus system.
-- 💞️ I’m looking to collaborate on anything INTERESTING.
+- 💞️ I also play competetive Valorant.
 - 📫 You can reach me on kartikchauhan100@gmail.com.
 
 <!---
